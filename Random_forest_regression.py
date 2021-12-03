@@ -1,8 +1,7 @@
 """Import Libraries"""
 
 # importing libraries  
-import numpy as nm  
-import matplotlib.pyplot as mtp  
+import numpy as nm   
 import pandas as pd
 
 """Load Data"""
